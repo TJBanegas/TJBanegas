@@ -1,4 +1,4 @@
-<h1>Hi, I'm TJ! <br/><a href="https://github.com/TJBanegas">IT Professional</a>, <a href="https://www.linkedin.com/in/timothy-b/06083b316/">Systems Administrator</a></h1>
+<h1>Hi, I'm TJ! <br/><a href="https://github.com/TJBanegas">IT Professional</a>, <a href="https://www.linkedin.com/in/tjbanegas">Systems Administrator</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -23,7 +23,7 @@
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="TJBanegas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/timothy-b/06083b316/
+[linkedin]: https://linkedin.com/in/tjbanegas/
 
 <!--
 **TJBanegas/TJBanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
